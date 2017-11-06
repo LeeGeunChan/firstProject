@@ -1,0 +1,5 @@
+public class hw{
+  public static main(String str[]){
+    system.out.println("Hello World");
+    }
+    }
